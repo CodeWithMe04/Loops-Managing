@@ -43,5 +43,10 @@ for x in my_list:
   if x == "banana":
     continue
   print(x)
+# While loop
+count = 0
+while count <= 10:
+  print(count)
+  count += 1
 
 # 👋👋
